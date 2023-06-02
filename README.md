@@ -1,2 +1,2 @@
-# collegeWebside
- DSATM College simple website project: A user-friendly website designed to showcase DSATM College's information, programs, faculty, and facilities, providing a seamless browsing experience for students, parents, and stakeholders.
+# html-css-website
+Build a beatiful HTML/CSS website. Code for the scotch.io course.
